@@ -1,4 +1,3 @@
-
 # A3-Estruturas-Matematicas
 
 # 📊 Simulador de Cadeias de Markov em Julia
@@ -20,6 +19,28 @@ Este projeto simula o comportamento de Cadeias de Markov com entradas interativa
 
 - [Julia](https://julialang.org/downloads/) versão **1.6 ou superior**;
 - Nenhum pacote externo necessário (usa apenas `LinearAlgebra` da biblioteca padrão).
+
+---
+
+## 🧪 Verificando a versão do Julia
+
+Para garantir que você está usando uma versão compatível, execute no terminal ou REPL:
+
+```julia
+versioninfo()
+```
+
+Você deve ver algo como:
+
+```
+Julia Version 1.11.5
+Platform Info:
+  OS: Windows (x86_64)
+  CPU: 12th Gen Intel(R) Core(TM) i5-12450H
+  ...
+```
+
+Este projeto é compatível com Julia **1.6 ou superior**.
 
 ---
 
